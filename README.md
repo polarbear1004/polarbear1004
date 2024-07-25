@@ -1,13 +1,9 @@
 ## Hi there 👋
 
+## sldfkjslkdjflskdjf lsdkjflsdkjfsdfsdfsdfsdf
+
 <!--
 **polarbear1004/polarbear1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div>
-sdflskdflskjdflskjdflksjdlfkjsdlkfjsd
-fsdlkfjsldkjflksjdf
-sdflksdjfljslkdf
-sdflsdfjlskdjfsdf
-</div>
 <div>I 💖 U </div>
 Here are some ideas to get you started:
 
