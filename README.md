@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am full stack developer!
+## I am a full stack developer!
 
 <!--
 **polarbear1004/polarbear1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
